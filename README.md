@@ -30,7 +30,6 @@
 
 - [@Sumanth N](https://github.com/n-sumanth-bhat)
 - [@Shrinidhi Holla](https://github.com/Shrinidhi-Holla)
-- [@Prajwal VS](https://github.com/Prajwal-Shridhar)
 
 
 ## How to Execute?
